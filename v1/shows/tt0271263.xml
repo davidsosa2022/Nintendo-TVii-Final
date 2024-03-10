@@ -1,0 +1,64 @@
+<vino_request>
+<content>
+
+<program>
+<program_name>Adam Sandler's Eight Crazy Nights</program_name>
+<program_image>img/ecn1.jpg</program_image>
+<streaming_service>Hulu</streaming_service>
+<program_rating>PG-13</program_rating>
+<program_year>2002</program_year>
+<program_country>United States</program_country>
+<program_extra_url>https://www.yahoo.com/</program_extra_url>
+<program_id>tt0271263</program_id>
+<program_description>Davey Stone, an alcoholic with a criminal record, is sentenced to community service under the supervision of an elderly referee. Davey is then faced with trying to reform and abandon his bad habits.</program_description>
+<program_genre>Adult Comedy</program_genre>
+<program_trailer_source>img/leo_trailer.mp4</program_trailer_source>
+<program_type>1</program_type>
+<disable_favorite>0</disable_favorite>
+
+<actors>
+
+<actor>
+<actor_name>Adam Sandler</actor_name>
+<actor_id>nm0001191</actor_id>
+<actor_image>img/actor1.jpg</actor_image>
+</actor>
+
+<actor>
+<actor_name>Bill Burr</actor_name>
+<actor_id>nm0122987</actor_id>
+<actor_image>img/actor2.jpg</actor_image>
+</actor>
+
+<actor>
+<actor_name>Cecily Strong</actor_name>
+<actor_id>nm5198446</actor_id>
+<actor_image>img/actor3.jpg</actor_image>
+</actor>
+
+<actor>
+<actor_name>Jason Alexander</actor_name>
+<actor_id>nm0004517</actor_id>
+<actor_image>img/actor4.jpg</actor_image>
+</actor>
+
+<actor>
+<actor_name>Rob Schneider</actor_name>
+<actor_id>nm0001705</actor_id>
+<actor_image>img/actor5.jpg</actor_image>
+</actor>
+
+<actor>
+<actor_name>Allison Strong</actor_name>
+<actor_id>nm3300228</actor_id>
+<actor_image>img/actor6.jpeg</actor_image>
+</actor>
+
+
+</actors>
+</program>
+
+
+</content>
+
+</vino_request>

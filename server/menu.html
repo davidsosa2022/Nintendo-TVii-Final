@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+  <title>Nintendo TVii</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/vino_en.css">
+  <script type="text/javascript" src="js/vino_en.js"></script>
+</head>
+  <body data-page="menu-page">
+<div class="wrapper">
+
+  <section class="menu-tab">
+    <div class="search-section">
+     <input type="text" navi_mouse navi_no_reset href="javascript:void(0)" onmousedown="vino.soundPlay('SE_CMN_TOUCH_ON')" navi_target class="search_input" placeholder="Search for programs or actors..." vino_suggest/>
+     <button navi_mouse onmousedown="vino.soundPlay('SE_CMN_TOUCH_ON'), app.utils.hover(true, this)" onmouseout="app.utils.hover(false, this)" onmouseup="app.utils.hover(false, this)" navi_target class="channel-changer" onclick="prepareChannelChanger()" data-sound="SE_A_DECIDE_TOUCH_OFF">Channel Changer</button>
+  </div>
+  <div class="buttons-section">
+    <a navi_mouse onmousedown="vino.soundPlay('SE_CMN_TOUCH_ON'), app.utils.hover(true, this)" onmouseout="app.utils.hover(false, this)" href="javascript:void(0);" onmouseup="app.utils.hover(false, this)" navi_target class="favorites_settings" data-sound="SE_A_DECIDE_TOUCH_OFF">Favorites Settings</a>
+    <a navi_mouse onmousedown="vino.soundPlay('SE_CMN_TOUCH_ON'), app.utils.hover(true, this)" onmouseout="app.utils.hover(false, this)" href="javascript:void(0);" onmouseup="app.utils.hover(false, this)" navi_target class="electronic_manual" data-sound="SE_A_DECIDE_TOUCH_OFF">Electronic Manual</a>
+    <a navi_mouse onmousedown="vino.soundPlay('SE_CMN_TOUCH_ON'), app.utils.hover(true, this)" onmouseout="app.utils.hover(false, this)" href="javascript:void(0);" onmouseup="app.utils.hover(false, this)" navi_target class="app_settings" data-sound="SE_A_DECIDE_TOUCH_OFF">App Settings</a>
+    <a navi_mouse onmousedown="vino.soundPlay('SE_CMN_TOUCH_ON'), app.utils.hover(true, this)" onmouseout="app.utils.hover(false, this)" href="javascript:void(0);" onmouseup="app.utils.hover(false, this)" navi_target class="back_button" onclick="app.utils.back()" data-sound="SE_CLOSE_TOUCH_OFF"> Back</a>
+  </div>
+  </section>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<vino_request>
+<content>
+
+<show>
+<show_name>NFL: Cardinals vs 49ers</show_name>
+<show_image>img/placeholder.gif</show_image>
+<streaming_service>Live TV</streaming_service>
+<show_rating>TV-G</show_rating>
+<show_year>2023</show_year>
+<show_country>United States</show_country>
+<show_extra_url>https://www.nfl.com/schedules/</show_extra_url>
+<show_id>nfl_cardinals_49ers</show_id>
+<show_description>NFL Sports game.</show_description>
+<show_genre>Sports</show_genre>
+<show_trailer_source></show_trailer_source>
+<show_type>3</show_type>
+<disable_favorite>1</disable_favorite>
+
+<actors>
+</actors>
+</show>
+
+
+</content>
+
+</vino_request>

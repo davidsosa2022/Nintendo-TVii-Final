@@ -1,0 +1,16 @@
+#Nintendo TVii - Vino
+Options +FollowSymLinks -Indexes
+# based heavily on Rixys htaccess for grape
+RewriteEngine on
+ErrorDocument 404 /index.php
+
+# Redirect root to etc/start
+RewriteRule ^$ /server/index.php [L,NC,QSA]
+
+# Other rewrite rules...
+RewriteRule ^program$ /server/program.php [L,NC,QSA]
+RewriteRule ^actor$ /pages/actor_info.html [L,NC,QSA]
+RewriteRule ^v1/miiverse_api$ /api/miiverse.php [L,NC,QSA]
+RewriteRule ^whitelist\.txt$ /api/whitelist.php [QSA,NC,L]
+
+php_value display_errors 1

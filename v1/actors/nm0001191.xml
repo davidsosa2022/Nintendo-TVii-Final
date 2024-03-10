@@ -1,0 +1,30 @@
+<vino_request>
+  <content>
+    <actor>
+      <actor_name>Adam Sandler</actor_name>
+      <actor_image>img/actor1.jpg</actor_image>
+      <actor_full_name>Adam Richard Sandler</actor_full_name>
+      <actor_birthday>9/9/1966</actor_birthday>
+      <actor_born_in>Brooklyn, New York, New York, United States</actor_born_in>
+      <actor_extra_url></actor_extra_url>
+      <actor_id>nm0001191</actor_id>
+      <actor_spouse_name>Jackie Sandler</actor_spouse_name>
+      <actor_spouse_id>nm0864490</actor_spouse_id>
+      <actor_height>1,77 m</actor_height>
+      <actor_awards_won>72</actor_awards_won>
+      <actor_awards_nom>204</actor_awards_nom>
+      <disable_favorite>0</disable_favorite>
+    </actor>
+
+    <related_shows>
+      <show>
+        <show_id>tt5755238</show_id>
+        <show_name>Leo</show_name>
+        <streaming_service>Netflix</streaming_service>
+        <show_genre>Animated Comedy</show_genre>
+        <show_type>2</show_type>
+      </show>
+    </related_shows>
+
+  </content>
+</vino_request>
